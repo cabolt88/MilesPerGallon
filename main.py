@@ -6,4 +6,3 @@ gallons= float (input ('Please enter number of gallons of gas used '))
 milesPerGallon= miles/gallons
 #output the results
 print ('Driving', miles, 'miles using', gallons, 'gallons of gas gives a MPG of', round (milesPerGallon,2), 'miles per gallon')
-#testcomment
